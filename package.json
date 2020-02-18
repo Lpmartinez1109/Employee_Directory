@@ -1,0 +1,26 @@
+{
+  "name": "Employee_Directory_HW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lpmartinez1109/Employee_Directory_HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lpmartinez1109/Employee_Directory_HW/issues"
+  },
+  "homepage": "https://github.com/Lpmartinez1109/Employee_Directory_HW#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "^3.4.0"
+  }
+}
