@@ -1,14 +1,12 @@
 import React from "react";
-import { BrowserRouter as Router } from "react-router-dom";
-import Main from "./components/Main/Main";
- 
+import Header from "./components/Header" ;
+import DataTable from "./components/Datatable";
 function App(){
     return(
-        <Router>
-        <div className="App">
-          <Main />
+        <div>
+          <Header />
+          <DataTable />
         </div>
-        </Router>
     )
 }
 
