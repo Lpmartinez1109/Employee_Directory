@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import API from "../utils/API";
 
-class Table extends Component {
+class DataTable extends Component {
     state = {
         table: []
     };
@@ -45,4 +45,4 @@ class Table extends Component {
         )
     }
 }
-export default Table;
+export default DataTable;
