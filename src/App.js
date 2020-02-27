@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "./components/Header" ;
-import DataTable from "./components/Datatable";
+import Header from "../src/components/Header" ;
+import DataTable from "../src/components/Datatable";
 function App(){
     return(
         <div>
